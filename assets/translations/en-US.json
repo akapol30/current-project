@@ -1,0 +1,26 @@
+{   
+    "title_main": "ThaiLand",
+    "title_Northern": "Northern",
+    "title_NorthEastern": "NorthEastern",
+    "title_Western": "Western",
+    "title_Central": "Central",
+    "title_Eastern": "Eastern",
+    "title_Southern": "Southern",
+    "btn_bottom1": "Main",
+    "btn_bottom2": "Favorite",
+    "btn_bottom3": "Wallet",
+    "btn_bottom4": "Pay",
+    "btn_bottom5": "About",
+    "btn_1": "Northern (ภาคเหนือ)",
+    "btn_2": "NorthEastern (ภาคอีสาน)",
+    "btn_3": "Western (ภาคตะวันตก)",
+    "btn_4": "Central (ภาคกลาง)",
+    "btn_5": "Eastern (ภาคตะวันออก)",
+    "btn_6": "Southern (ภาคใต้)",
+
+    "btn_top1": "Recipe",
+    "btn_top2": "Restaurant",
+    "btn_top3": "Travel",
+    "btn_top4": "Promote"
+
+}   

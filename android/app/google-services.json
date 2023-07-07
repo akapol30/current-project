@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "830656562257",
+    "project_id": "project-towin-d0516",
+    "storage_bucket": "project-towin-d0516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830656562257:android:baa1f1b1116f662d866470",
+        "android_client_info": {
+          "package_name": "com.example.project_tobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830656562257-55filg6bftnk1supn1d919odv651tj5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_tobe",
+            "certificate_hash": "9ad72cae14bf21467ee96b898a5c5c3ff762a3ce"
+          }
+        },
+        {
+          "client_id": "830656562257-vtm60vsul3bvln7p5c6bi7i3nkmvlko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnJjkzWud_lM5HiqnJpo2RmQfw2CgXdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830656562257-2fsiov2u5f2jel3g44hnffnspua7lkkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830656562257-3fihdusfp2ubeo638esn4l7du12pa22u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectTowin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830656562257:android:dbd43aff482bc6b4866470",
+        "android_client_info": {
+          "package_name": "com.example.project_towin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830656562257-vtm60vsul3bvln7p5c6bi7i3nkmvlko5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnJjkzWud_lM5HiqnJpo2RmQfw2CgXdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830656562257-2fsiov2u5f2jel3g44hnffnspua7lkkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830656562257-3fihdusfp2ubeo638esn4l7du12pa22u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectTowin.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
